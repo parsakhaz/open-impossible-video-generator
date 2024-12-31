@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+requests
+replicate
+moondream==0.0.6
+moviepy
