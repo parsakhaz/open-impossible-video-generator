@@ -1,5 +1,7 @@
 # Open Impossible Video Generator
 
+> ⚠️ **Cost Warning**: Each video generation costs approximately $1 USD using cloud APIs ($0.70 for video, $0.30 for audio). A free local version using open source models will be released soon!
+
 ## Example Output
 
 From `car.log`:
@@ -108,6 +110,11 @@ The script will:
 - Generated videos are typically around 5-6 seconds long
 - Requires good internet connection for API calls
 - Processing can take several minutes depending on video length
+- Cost per video is approximately $0.51 USD:
+  - Moondream API: Free up to 5,000 queries/day
+  - Replicate costs (per video):
+    - Minimax video generation: ~$0.50
+    - MMAudio generation: ~$0.006
 
 ## Troubleshooting
 
