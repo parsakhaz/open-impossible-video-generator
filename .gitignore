@@ -1,16 +1,24 @@
 # Dependency directories
 node_modules/
 vendor/
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Environment files
 .env
 .env.local
 .env.*.local
+venv/
+env/
+ENV/
 
 # Build outputs
 dist/
 build/
 out/
+*.egg-info/
+*.egg
 
 # IDE and editor files
 .idea/
@@ -34,6 +42,9 @@ yarn-error.log*
 
 # Testing
 coverage/
+.pytest_cache/
+.coverage
+htmlcov/
 
 # Temporary files
 tmp/
