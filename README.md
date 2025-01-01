@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ```
 
 4. Set up API keys:
-- Get a Moondream API key from their platform
+- Get a Moondream API key from [console.moondream.ai](console.moondream.ai)
 - Get a Replicate API token from https://replicate.com
 - Set up Replicate billing: https://replicate.com/account/billing (Moondream API is free up to 5,000 queries a day)
 
