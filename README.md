@@ -1,6 +1,6 @@
 # Open Impossible Video Generator
 
-> ⚠️ **Cost Warning**: Each video generation costs approximately $1 USD using cloud APIs ($0.70 for video, $0.30 for audio). A free local version using open source models will be released soon!
+> ⚠️ **Cost Warning**: Each video generation costs approximately $0.51USD using cloud APIs ($0.50 for video, $0.01 for audio). A free local version using open source models will be released soon!
 
 ## Example Output
 
