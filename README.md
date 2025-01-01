@@ -76,7 +76,7 @@ REPLICATE_API_TOKEN=your-replicate-token
 
 ## Usage
 
-1. Place your input video in the `input` directory (supported formats: .mp4, .avi, .mov, .mkv)
+1. Place your input video in a `input` directory (supported formats: .mp4, .avi, .mov, .mkv)
    - The folder will be created automatically if it doesn't exist
 
 2. Run the script:
